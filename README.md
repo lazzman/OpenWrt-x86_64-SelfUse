@@ -8,3 +8,6 @@ OpenWrt-x86_64-SelfUse —— OpenWrt自用软路由固件
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
 | 1 |   [![](https://img.shields.io/badge/OpenWrt-x86_64_(64位)-FFFFFF.svg)](https://github.com/lazzman/OpenWrt-x86_64-SelfUse/actions?query=workflow%3A%22Build+OpenWrt%22)    | [![](https://github.com/lazzman/OpenWrt-x86_64-SelfUse/workflows/Build%20OpenWrt/badge.svg)](https://github.com/lazzman/OpenWrt-x86_64-SelfUse/actions?query=workflow%3A%22Build+OpenWrt%22) |[![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede) |  |  
 
+## 基本介绍
+
+没啥好说的
